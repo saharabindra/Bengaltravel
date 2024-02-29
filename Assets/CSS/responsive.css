@@ -159,6 +159,12 @@
     .gallerysec h2{
         font-size: 37px;
     }
+    .testimonialsec h3 {
+    font-size: 29px;
+}
+    .packagingstart h3{
+    font-size: 11px;
+}
 
 }
 @media screen and (max-width: 479px){
