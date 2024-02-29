@@ -1,5 +1,3 @@
-
-
 @media screen and (max-width: 1199px){
     .header_wrapper .nav-item .nav-link {
         margin-left: 20px;
@@ -162,8 +160,8 @@
     .testimonialsec h3 {
     font-size: 29px;
 }
-    .packagingstart h3{
-    font-size: 27px;
+.packagingstart h3{
+    font-size: 11px;
 }
 
 }
@@ -179,7 +177,4 @@
 }
 .testimonialsec h3 {
     font-size: 29px;
-}
-.packagingstart h3 {
-    font-size: 16px;
 }
