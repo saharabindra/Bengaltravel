@@ -72,6 +72,7 @@ body{
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
+    overflow: hidden;
 }
 
 
@@ -150,7 +151,7 @@ position: relative;
 .packagingstart h3{
     position: relative;
     font-family: "Oswald", sans-serif;
-    font-size: 27px;
+    font-size: 31px;
     font-weight: 600;
     line-height: 30px;
     color: #fff;
@@ -180,7 +181,6 @@ position: relative;
     font-size: 27px;
     font-weight: 400;
 }
-*
 .bookingformsec{
     display: flex;
     position: relative;
@@ -257,6 +257,7 @@ font-weight: 500;
 }
 .aboutussec{
     padding: 80px 0;
+    overflow: hidden;
 }
 .firstcontainimagesec{
     position: relative;
@@ -296,6 +297,7 @@ font-weight: 500;
     z-index: 1;
     background-size: cover;
     padding: 100px 0;
+    overflow: hidden;
 }
 .Favouritedestinationsec:before{
     position: absolute;
@@ -358,6 +360,7 @@ font-weight: 500;
   }
   .populartourpackagesec{
     padding: 80px 0;
+    overflow: hidden;
   }
   .populartourpackagesec p{
     font-size: 18px;
@@ -423,6 +426,7 @@ font-weight: 500;
     background: url(../Image/Ourservicesec/Backgroundimg.jpg) no-repeat left top; 
     background-size: cover;
     z-index: 1;
+    overflow: hidden;
   }
   .ourservicesec:before{
     position: absolute;
@@ -503,6 +507,7 @@ font-weight: 500;
     }
     .tophotelsec{
         padding: 100px 0;
+        overflow: hidden;
     }
     .tophotelsec h2{
     color: #402929;
@@ -561,6 +566,7 @@ font-weight: 500;
         .testimonialsec{
             padding: 60px 0;
             background-color: #0A0805;
+            overflow: hidden;
         }
         .testimonialsec h2{
          color: #EBE118;
@@ -813,6 +819,7 @@ font-weight: 500;
         }
         .gallerysec {
             padding: 80px 0;
+            overflow: hidden;
         }
          
 
@@ -864,6 +871,7 @@ font-weight: 500;
         .Contactsec{
             background-color: #000;
             padding: 100px 0;
+            overflow: hidden;
         }
         a.discoverbut {
             background-color: #EBE118;
@@ -889,7 +897,7 @@ font-weight: 500;
             background-size: cover;
             z-index: 1;  
             padding: 100px 0;
-            overflow:hidden;
+            overflow: hidden;
         }
         .footersec .container{
             z-index: 3;
